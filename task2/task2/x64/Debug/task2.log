@@ -1,0 +1,11 @@
+﻿  task2.cpp
+C:\Users\burko\OneDrive\Рабочий стол\IT\С++\task2\task2\task2.cpp(30,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\burko\OneDrive\Рабочий стол\IT\С++\task2\task2\task2.cpp(31,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\burko\OneDrive\Рабочий стол\IT\С++\task2\task2\task2.cpp(44,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\burko\OneDrive\Рабочий стол\IT\С++\task2\task2\task2.cpp(45,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\burko\OneDrive\Рабочий стол\IT\С++\task2\task2\task2.cpp(78,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\burko\OneDrive\Рабочий стол\IT\С++\task2\task2\task2.cpp(79,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\burko\OneDrive\Рабочий стол\IT\С++\task2\task2\task2.cpp(92,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\burko\OneDrive\Рабочий стол\IT\С++\task2\task2\task2.cpp(93,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\burko\OneDrive\Рабочий стол\IT\С++\task2\task2\task2.cpp(94,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  task2.vcxproj -> C:\Users\burko\OneDrive\Рабочий стол\IT\С++\task2\x64\Debug\task2.exe
